@@ -4,7 +4,17 @@
     "details": [
     {
       "appID": "8ZF9K8ZRF7.com.broniboy.client",
-      "paths": ["*"]
+      "paths": [ "*", "/" ],
+      "components": [
+  {
+     "/": "/app/*",
+     "comment": ""
+  },
+  {
+     "/": "*",
+     "comment": ""
+  }
+]
     }
     ]
   }
