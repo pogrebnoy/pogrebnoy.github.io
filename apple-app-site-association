@@ -1,21 +1,23 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-    {
-      "appID": "8ZF9K8ZRF7.com.broniboy.client",
-      "paths": [ "*", "/" ],
-      "components": [
-  {
-     "/": "/app/*",
-     "comment": ""
-  },
-  {
-     "/": "*",
-     "comment": ""
-  }
-]
+    "applinks": {
+        "details": [
+            {
+                "appID": "8ZF9K8ZRF7.com.broniboy.client",
+                "paths": [
+                    "*",
+                    "/"
+                ],
+                "components": [
+                    {
+                        "/": "/app/*",
+                        "comment": ""
+                    },
+                    {
+                        "/": "*",
+                        "comment": ""
+                    }
+                ]
+            }
+        ]
     }
-    ]
-  }
 }
