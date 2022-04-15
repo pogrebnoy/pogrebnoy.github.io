@@ -19,5 +19,12 @@
                 ]
             }
         ]
+    },
+   "webcredentials": {
+      "apps": [ "8ZF9K8ZRF7.com.broniboy.client" ]
+   },
+
+    "appclips": {
+        "apps": ["8ZF9K8ZRF7.com.broniboy.client"]
     }
 }
